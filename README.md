@@ -1,6 +1,6 @@
 # The complete web development bootcamp
 
-![Alt text](FullStack.jpg?raw=true "certificate")
+//![Alt text](FullStack.jpg?raw=true "certificate")
 
 ## Resources
 
